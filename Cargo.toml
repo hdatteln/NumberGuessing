@@ -1,0 +1,8 @@
+[package]
+name = "numberguessing"
+version = "1.0.0"
+authors = ["Heidi Duchting"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.3"
